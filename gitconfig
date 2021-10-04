@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = j.g.waymark@gmail.com
+	name = joe waymark
